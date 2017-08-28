@@ -1,15 +1,18 @@
 {
-	"name": "summon",
-	"main": "./lib/atom-summon",
-	"version": "0.0.0",
-	"description": "Summon atom from anywhere",
-	"keywords": ["utility", "summon"],
-	"activationEvents": [],
-	"repository": "https://github.com/germtb/atom-summon",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {},
-	"devDependencies": {}
+  "name": "summon",
+  "main": "./lib/atom-summon",
+  "version": "0.1.0",
+  "description": "Summon atom from anywhere",
+  "keywords": [
+    "utility",
+    "summon"
+  ],
+  "activationEvents": [],
+  "repository": "https://github.com/germtb/atom-summon",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
